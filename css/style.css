@@ -1,0 +1,220 @@
+body {
+    background: url(../assets/images/fondo_pelotas.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#image2-p {
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba(250, 250, 250, 0.4);
+    color: #000000;
+}
+
+#video2-1d,
+#content6-18,
+#content4-19,
+#content4-1b,
+#features20-q,
+#features12-y {
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba(250, 250, 250, 0.9);
+    color: #000000;
+}
+
+#content6-18 {
+    margin-top: 20px;
+}
+
+#content4-19,
+#content4-1b,
+#features20-q,
+#features12-y {
+    margin-top: 20px;
+    padding-bottom: 0;
+    padding-top: 30px;
+}
+
+#content5-1a,
+#content5-1c {
+    margin-left: 50px;
+    margin-right: 50px;
+    background: rgba(250, 250, 250, 0.9);
+    color: #000000;
+}
+
+#features12-y {
+    padding-bottom: 20px;
+}
+
+#dates {
+    background-color: lightcyan;
+    padding: 10px;
+    align-items: center;
+    border-radius: 25px;
+}
+
+#footer4-x, #footer4-1g, #footer4-2r {
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 390px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+#estadistica {
+    vertical-align: inherit;
+    text-align: center;
+}
+
+#desc {
+    text-align: justify;
+}
+
+thead tr th {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: white;
+}
+
+#formula {
+    color: blue;
+}
+
+
+
+/* CSS Reglamento */
+
+#content4-1i, #image3-1j,
+#content4-1k, #content5-1p,
+#features20-1q, #features20-1t,
+#features20-1v, #features20-1x,
+#features20-1z, #features20-21,
+#features20-23, #features20-25,
+#features20-27, #content4-1m,
+#content5-1n, #content4-29,
+#content5-2a, #content4-2b,
+#content5-2c, #content8-1o,
+#content4-2d, #content8-2e,
+#content4-2i, #content5-2h,
+#content8-2g, #content4-2k,
+#content5-2j, #content4-2l,
+#content5-2m, #content8-2p,
+#content4-2n, #tabs1-2o {
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba(250, 250, 250, 0.9);
+    color: #000000;
+}
+
+#image3-1j, #content5-1p,
+#features20-1q, #features20-1t,
+#features20-1v, #features20-1x,
+#features20-1z, #features20-21,
+#features20-23, #features20-25,
+#features20-27, #content5-1n,
+#content4-29, #content5-2a,
+#content4-2b, #content5-2c,
+#content8-1o, #content4-2d,
+#content8-2e, #content4-2i,
+#content5-2h, #content8-2g,
+#content4-2k, #content5-2j,
+#content5-2m, #content8-2p,
+#content4-2n, #tabs1-2o {
+    margin-top: 0;
+}
+
+#content4-1i, #content5-1p,
+#content5-2a, #content8-1o,
+#content8-2e, #content4-2d,
+#content4-2i, #content5-2h,
+#content8-2g, #content4-2k,
+#content5-2j, #content5-2m,
+#content4-2n {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#posiciones {
+    background-color: lightcyan;
+    padding: 10px;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.lanzamientos,
+#lanzamiento_bolas {
+    background-color: lightcyan;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+#lanzamiento_bolas {
+    padding: 20px;
+}
+
+#content4-2t,
+#image1-2v,
+#image2-2w,
+#image1-2x,
+#image2-2y,
+#image1-2z,
+#image2-30,
+#image1-31,
+#image2-32,
+#image1-3d,
+#content4-33,
+#content5-34,
+#image1-35,
+#image2-36,
+#image1-37,
+#image2-38,
+#image1-39,
+#image2-3a {
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgba(250, 250, 250, 0.9);
+    color: #000000;
+}
+
+#image1-2v,
+#image2-2w,
+#image1-2x,
+#image2-2y,
+#image1-2z,
+#image2-30,
+#image1-31,
+#image2-32,
+#image1-3d,
+#content5-34,
+#image1-35,
+#image2-36,
+#image1-37,
+#image2-38,
+#image1-39,
+#image2-3a {
+    margin-top: 0;
+}
+
